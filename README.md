@@ -50,14 +50,24 @@ npm start
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+[![Screenshot1](Add screenshot 1 here with proper name)
+*Add caption explaining what this shows*](https://github.com/kingkingdomnjr-maker/faaatube/blob/0ea25fce27e092c0e0cdc38c26c2bf0b2b5cf74d/Screenshot%20(35).png)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+[![Screenshot2](Add screenshot 2 here with proper name)
+*Add caption explaining what this shows*](https://github.com/kingkingdomnjr-maker/faaatube/blob/0ea25fce27e092c0e0cdc38c26c2bf0b2b5cf74d/Screenshot%20(36).png)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+[![Screenshot3](Add screenshot 3 here with proper name)
+*Add caption explaining what this shows*](https://github.com/kingkingdomnjr-maker/faaatube/blob/0ea25fce27e092c0e0cdc38c26c2bf0b2b5cf74d/Screenshot%20(37).png)
+
+https://github.com/kingkingdomnjr-maker/faaatube/blob/0ea25fce27e092c0e0cdc38c26c2bf0b2b5cf74d/Screenshot%20(38).png
+
+https://github.com/kingkingdomnjr-maker/faaatube/blob/0ea25fce27e092c0e0cdc38c26c2bf0b2b5cf74d/Screenshot%20(40).png
+
+https://github.com/kingkingdomnjr-maker/faaatube/blob/0ea25fce27e092c0e0cdc38c26c2bf0b2b5cf74d/Screenshot%20(41).png
+
+https://github.com/kingkingdomnjr-maker/faaatube/blob/0ea25fce27e092c0e0cdc38c26c2bf0b2b5cf74d/Screenshot%20(42).png
+
+https://github.com/kingkingdomnjr-maker/faaatube/blob/0ea25fce27e092c0e0cdc38c26c2bf0b2b5cf74d/Screenshot%20(44).png
 
 # Diagrams
 [ChatGPT Image Sep 12, 2026, 06_18_32 PM.png](https://github.com/kingkingdomnjr-maker/faaatube/blob/6e94f596085ed5f865e340c8f5b2de8ac04e0d16/ChatGPT%20Image%20Sep%2012%2C%202026%2C%2006_18_32%20PM.png)
