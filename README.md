@@ -60,8 +60,7 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+ChatGPT Image Sep 12, 2026, 06_18_32 PM.png
 
 
 ### Project Demo
