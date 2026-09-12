@@ -75,11 +75,8 @@ https://github.com/kingkingdomnjr-maker/faaatube/blob/0ea25fce27e092c0e0cdc38c26
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+[[Add your demo video link here]
+*Explain what the video demonstrates*](https://drive.google.com/drive/folders/1pU0-D3FhEp7LAeFMIo8fkWDWf2uD0gQ3?usp=sharing)
 
 ## Team Contributions
 - Devapriya: UI/UX Development, Logical Thinking
