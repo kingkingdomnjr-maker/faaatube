@@ -60,7 +60,7 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-ChatGPT Image Sep 12, 2026, 06_18_32 PM.png
+[ChatGPT Image Sep 12, 2026, 06_18_32 PM.png](https://github.com/kingkingdomnjr-maker/faaatube/blob/6e94f596085ed5f865e340c8f5b2de8ac04e0d16/ChatGPT%20Image%20Sep%2012%2C%202026%2C%2006_18_32%20PM.png)
 
 
 ### Project Demo
